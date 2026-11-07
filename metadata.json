@@ -1,0 +1,6 @@
+{
+  "name": "BioCheck Honduras - Control de Asistencia 3D",
+  "description": "Sistema biométrico de asistencia y empleados con validación de DNI de Honduras (13 dígitos), horario de Tegucigalpa, escáner 3D y PWA para Samsung Galaxy S23 Ultra.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

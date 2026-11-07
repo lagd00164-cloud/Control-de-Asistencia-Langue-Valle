@@ -1,0 +1,44 @@
+{
+  "0801199012345": {
+    "dni": "0801199012345",
+    "full_name": "Carlos Alberto Mejía",
+    "position": "Ingeniero de Sistemas",
+    "photo_path": null,
+    "enrolled_at": "2026-11-01 07:12:00 AM",
+    "updated_at": "2026-11-01 07:12:00 AM"
+  },
+  "0501198823456": {
+    "dni": "0501198823456",
+    "full_name": "María Elena Morales",
+    "position": "Gerente de Recursos Humanos",
+    "photo_path": null,
+    "enrolled_at": "2026-11-01 07:15:00 AM",
+    "updated_at": "2026-11-01 07:15:00 AM"
+  },
+  "0801200045678": {
+    "dni": "0801200045678",
+    "full_name": "Sofía Isabel Romero",
+    "position": "Especialista en Calidad & UX",
+    "photo_path": null,
+    "enrolled_at": "2026-11-02 07:31:00 AM",
+    "updated_at": "2026-11-02 07:31:00 AM"
+  },
+  "0801199599999": {
+    "dni": "0801199599999",
+    "full_name": "Roberto Carlos Valladares",
+    "position": "Analista de Finanzas",
+    "photo_path": null,
+    "photo_url": null,
+    "enrolled_at": "2026-11-07 06:24:07 AM",
+    "updated_at": "2026-11-07 06:24:07 AM"
+  },
+  "1707199201234": {
+    "dni": "1707199201234",
+    "full_name": "José Leonel Carranza",
+    "position": "Supervisor de Logística (Langue, Valle)",
+    "photo_path": null,
+    "photo_url": null,
+    "enrolled_at": "2026-11-07 06:46:31 AM",
+    "updated_at": "2026-11-07 06:46:31 AM"
+  }
+}
